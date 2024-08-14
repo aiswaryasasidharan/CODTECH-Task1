@@ -7,12 +7,12 @@ MENTOR : MUZAMMIL AHMED
 
 OVERVIEW OF THE PROJECT 
 
-Project:Portfolio Website Redesign 
+Project : Portfolio Website Redesign 
 
-objective 
+objective :
 Redesigning or creating a portfolio website, it's important to have clear objectives that guide the design, content, and overall user experience. Here are some common objectives for a portfolio website
 
-key Activities 
+key Activities :
 
 Define Objectives and Goals
 Analyze Current Website
@@ -20,11 +20,11 @@ Research and Inspiration
 Content Creation and Optimization
 Development
 
-Technology used 
+Technology used :
 HTML5,CSS3,JAVASCRIPT
 
 
-Output 
+Output :
 
 ![task5](https://github.com/user-attachments/assets/3ba4478c-8c87-450e-89cb-97b064c6f7c6)
 ![task6](https://github.com/user-attachments/assets/fb5ec391-7fb2-4021-8811-975721f0ff59)
